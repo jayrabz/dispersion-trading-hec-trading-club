@@ -5,13 +5,13 @@ basée sur la méthodologie de Marshall (2009) et Nelken (2006).
 
 ## Équipe
 
-| Nom     | Rôle                          | Mandat |
-|---------|-------------------------------|--------|
-| Jeremy  | Lead / encadrement            | Coordination, revue, décisions de scope |
-| Rami    | Senior analyste               | Mécanique des instruments (straddle ATM, Greeks), horizon/tenor |
-| Kevin   | Senior analyste (quant)       | Pipeline de données, code (Markowitz modifié, IOIV/MIV, delta hedge) |
-| Rafael  | Analyste                      | Revue de littérature, estimation de la corrélation implicite |
-| Mia     | Analyste                      | Choix de l'indice/univers, poids, définition ATM/interpolation |
+| Nom     | 
+|---------|
+| Jeremy  | 
+| Rami    | 
+| Kevin   |
+| Rafael  |
+| Mia     | 
 
 ## Structure du repo
 
