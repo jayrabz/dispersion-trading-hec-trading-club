@@ -1,4 +1,4 @@
-# Dispersion Trading — Club de Trading HEC Montréal
+# Dispersion Trading - Club de Trading HEC Montréal
 
 Recherche sur une stratégie de dispersion trading (vol de l'indice vs vol des composantes),
 basée sur la méthodologie de Marshall (2009) et Nelken (2006).
