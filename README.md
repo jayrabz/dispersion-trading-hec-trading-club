@@ -19,11 +19,4 @@ basée sur la méthodologie de Marshall (2009) et Nelken (2006).
 - `strategy/` — logique de la stratégie (calcul IOIV/MIV, équation de Markowitz modifiée, définition ATM)
 - `backtest/` — simulation du trade, delta hedge, coûts de transaction, résultats
 
-## Références
 
-- Marshall, C.M. (2009). "Dispersion trading: Empirical evidence from U.S. options markets." *Global Finance Journal*, 20, 289-301.
-- Nelken, I. (2006). "Variance swap volatility dispersion." *Derivatives Use, Trading & Regulation*, 11(4), 334-344.
-
-## Statut du projet
-
-En démarrage.
