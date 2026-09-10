@@ -1,0 +1,16 @@
+# Données (potentiellement sous licence WRDS — ne jamais commit)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Environnement
+.env
+
+# OS
+.DS_Store
